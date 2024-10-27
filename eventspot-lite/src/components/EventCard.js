@@ -1,31 +1,27 @@
 import React from 'react';
 import styled from 'styled-components';
 
-const NavbarContainer = styled.nav`
-  display: flex;
-  justify-content: space-between;
-  align-items: center;
+const Card = styled.div`
+  border: 1px solid #ccc;
+  border-radius: 8px;
   padding: 1rem;
-  background: #333;
-  color: white;
+  margin: 1rem;
+  transition: transform 0.2s;
+  cursor: pointer;
+
+  &:hover {
+    transform: scale(1.05);
+  }
 `;
 
-const SearchInput = styled.input`
-  padding: 0.5rem;
-`;
-
-const Navbar = ({ searchTerm, onSearchChange }) => {
+const EventCard = ({ event, onClick }) => {
   return (
-    <NavbarContainer>
-      <h1>EventSpot Lite</h1>
-      <SearchInput
-        type="text"
-        placeholder="Search events..."
-        value={searchTerm}
-        onChange={(e) => onSearchChange(e.target.value)}
-      />
-    </NavbarContainer>
+    <Card onClick={() => onClick(event)}>
+      <h3>{event.name}</h3>
+      <p>{event.date}</p>
+      <p>{event.location}</p>
+    </Card>
   );
 };
 
-export default Navbar;
+export default EventCard;
