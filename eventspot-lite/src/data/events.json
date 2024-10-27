@@ -1,59 +1,195 @@
 [
     {
-      "id": 1,
-      "name": "Music Festival",
-      "date": "2024-10-10",
-      "location": "Central Park",
-      "description": "Join us for a day of music and fun!",
-      "image": "https://example.com/music-festival.jpg"
-    },
-    {
-      "id": 2,
-      "name": "Art Exhibition",
-      "date": "2024-10-15",
-      "location": "Art Gallery",
-      "description": "Explore contemporary art from local artists.",
-      "image": "https://example.com/art-exhibition.jpg"
+        "id": 1,
+        "name": "Jazz Night",
+        "date": "2024-11-01",
+        "location": "Downtown Jazz Club",
+        "description": "Join us for a spectacular evening of smooth jazz performances from top artists in the industry. Enjoy an intimate atmosphere as you sip on your favorite cocktails and indulge in a selection of gourmet appetizers. The night will feature live performances, open mic sessions, and opportunities to meet the artists. Perfect for jazz enthusiasts and newcomers alike, this event promises to be a memorable experience filled with soulful melodies and vibrant rhythms. Don’t miss out on a chance to dance the night away or simply relax and soak in the atmosphere. Reserve your table now and bring your friends for a night to remember!",
+        "image": "https://images.unsplash.com/photo-1486591978090-58e619d37fe7?w=800&auto=format&fit=crop&q=60&ixlib=rb-4.0.3&ixid=M3wxMjA3fDB8MHxzZWFyY2h8MTJ8fGV2ZW50fGVufDB8fDB8fHww"
     },
     {
         "id": 2,
-        "name": "Art Exhibition",
-        "date": "2024-10-15",
-        "location": "Art Gallery",
-        "description": "Explore contemporary art from local artists.",
-        "image": "https://example.com/art-exhibition.jpg"
-      },
-      {
-        "id": 2,
-        "name": "Art Exhibition",
-        "date": "2024-10-15",
-        "location": "Art Gallery",
-        "description": "Explore contemporary art from local artists.",
-        "image": "https://example.com/art-exhibition.jpg"
-      },
-      {
-        "id": 2,
-        "name": "Art Exhibition",
-        "date": "2024-10-15",
-        "location": "Art Gallery",
-        "description": "Explore contemporary art from local artists.",
-        "image": "https://example.com/art-exhibition.jpg"
-      },
-      {
-        "id": 2,
-        "name": "Art Exhibition",
-        "date": "2024-10-15",
-        "location": "Art Gallery",
-        "description": "Explore contemporary art from local artists.",
-        "image": "https://example.com/art-exhibition.jpg"
-      },
-      {
-        "id": 2,
-        "name": "Art Exhibition",
-        "date": "2024-10-15",
-        "location": "Art Gallery",
-        "description": "Explore contemporary art from local artists.",
-        "image": "https://example.com/art-exhibition.jpg"
-      }
+        "name": "Tech Innovation Summit",
+        "date": "2024-11-05",
+        "location": "Convention Center",
+        "description": "Explore the latest advancements in technology at the Tech Innovation Summit. This event gathers industry leaders, innovators, and enthusiasts to discuss cutting-edge developments and trends. Attend keynote speeches from influential figures, participate in interactive workshops, and network with like-minded individuals. The summit covers various topics including AI, blockchain, and cybersecurity. Learn how these technologies are shaping our future and discover opportunities for collaboration. Enjoy exhibitions showcasing groundbreaking products and services. Join us for this enlightening event and be part of the tech revolution!",
+        "image": "https://plus.unsplash.com/premium_photo-1663089174939-5870e2e8d62e?w=800&auto=format&fit=crop&q=60&ixlib=rb-4.0.3&ixid=M3wxMjA3fDB8MHxzZWFyY2h8MTd8fGV2ZW50fGVufDB8fDB8fHww"
+    },
+    {
+        "id": 3,
+        "name": "Culinary Arts Festival",
+        "date": "2024-11-10",
+        "location": "City Fairgrounds",
+        "description": "Savor the flavors of the Culinary Arts Festival, where local chefs showcase their skills and creativity. Enjoy a diverse array of dishes from various cuisines, attend cooking demonstrations, and participate in tasting sessions. Learn tips and tricks from culinary experts, discover new ingredients, and indulge in gourmet food. The festival features competitions, food trucks, and artisanal markets, creating a vibrant atmosphere for food lovers. Bring your appetite and curiosity as you embark on a culinary journey filled with delicious experiences. Whether you’re a food novice or a seasoned chef, this event has something for everyone!",
+        "image": "https://images.unsplash.com/photo-1528605248644-14dd04022da1?w=800&auto=format&fit=crop&q=60&ixlib=rb-4.0.3&ixid=M3wxMjA3fDB8MHxzZWFyY2h8MTV8fGV2ZW50fGVufDB8fDB8fHww"
+    },
+    {
+        "id": 4,
+        "name": "Literary Gala",
+        "date": "2024-11-15",
+        "location": "City Library",
+        "description": "Celebrate the power of literature at the Literary Gala, an evening dedicated to the written word. Meet renowned authors, attend book signings, and engage in thought-provoking discussions about literature's impact on society. The event features panel discussions, poetry readings, and interactive sessions with writers. Enjoy a night filled with inspiration, creativity, and storytelling. Network with fellow literature enthusiasts and discover new books to add to your collection. Dress to impress and join us for a memorable evening that honors the beauty of words and the art of writing!",
+        "image": "https://images.unsplash.com/photo-1522158637959-30385a09e0da?w=800&auto=format&fit=crop&q=60&ixlib=rb-4.0.3&ixid=M3wxMjA3fDB8MHxzZWFyY2h8MTZ8fGV2ZW50fGVufDB8fDB8fHww"
+    },
+    {
+        "id": 5,
+        "name": "Outdoor Adventure Expo",
+        "date": "2024-11-20",
+        "location": "Adventure Park",
+        "description": "Join us at the Outdoor Adventure Expo for a day filled with excitement and exploration! This event is perfect for outdoor enthusiasts and those looking to try something new. Participate in activities like rock climbing, zip-lining, and hiking workshops led by experienced instructors. Discover the latest gear and equipment from top outdoor brands at the vendor expo. Attend seminars on topics such as survival skills, wilderness safety, and environmental conservation. Connect with fellow adventurers and share your experiences. Whether you're a seasoned explorer or just starting your outdoor journey, this event is not to be missed!",
+        "image": "https://images.unsplash.com/photo-1501281668745-f7f57925c3b4?w=800&auto=format&fit=crop&q=60&ixlib=rb-4.0.3&ixid=M3wxMjA3fDB8MHxzZWFyY2h8MjN8fGV2ZW50fGVufDB8fDB8fHww"
+    },
+    {
+        "id": 6,
+        "name": "Fashion Forward Show",
+        "date": "2024-11-25",
+        "location": "Fashion District",
+        "description": "Step into the world of fashion at the Fashion Forward Show! This exciting event showcases the latest trends, designs, and innovations in the fashion industry. Experience live runway shows featuring emerging and established designers, and discover unique pieces that redefine style. Participate in panel discussions with fashion experts, learn about sustainable practices, and explore the business of fashion. Network with designers, models, and industry insiders while enjoying a stylish atmosphere. Whether you're a fashionista or simply appreciate great design, this event will inspire and captivate you!",
+        "image": "https://images.unsplash.com/photo-1523521803700-b3bcaeab0150?w=800&auto=format&fit=crop&q=60&ixlib=rb-4.0.3&ixid=M3wxMjA3fDB8MHxzZWFyY2h8Mzl8fGV2ZW50fGVufDB8fDB8fHww"
+    },
+    {
+        "id": 7,
+        "name": "Wellness Retreat",
+        "date": "2024-12-01",
+        "location": "Serenity Spa",
+        "description": "Escape the hustle and bustle of daily life at our Wellness Retreat. Immerse yourself in a serene environment designed to rejuvenate your mind, body, and spirit. Participate in yoga sessions, meditation workshops, and holistic healing practices led by experienced instructors. Enjoy nutritious meals and engage in discussions about wellness and self-care. Take time to relax in tranquil settings and enjoy spa treatments that promote relaxation and renewal. Whether you're looking to unwind or learn new wellness techniques, this retreat offers a perfect opportunity to recharge and connect with yourself.",
+        "image": "https://images.unsplash.com/photo-1687181133349-d37c0e42d323?w=800&auto=format&fit=crop&q=60&ixlib=rb-4.0.3&ixid=M3wxMjA3fDB8MHxzZWFyY2h8NHx8d2VsbG5lc3MlMjByZXRyZWF0fGVufDB8fDB8fHww"
+    },
+    {
+        "id": 8,
+        "name": "Historical Heritage Festival",
+        "date": "2024-12-05",
+        "location": "Old Town Square",
+        "description": "Step back in time at the Historical Heritage Festival, a celebration of our rich cultural history. Explore exhibits showcasing artifacts, reenactments, and educational workshops. Enjoy live performances of traditional music and dance, and indulge in authentic cuisine from various eras. Participate in storytelling sessions that bring history to life, and engage with historians and local experts. This family-friendly event offers activities for all ages, including crafts, games, and guided tours of historical landmarks. Join us for a day of discovery and appreciation of our shared heritage!",
+        "image": "https://images.unsplash.com/photo-1687436874119-6e587ae3dae5?w=800&auto=format&fit=crop&q=60&ixlib=rb-4.0.3&ixid=M3wxMjA3fDB8MHxzZWFyY2h8MTB8fHdlbGxuZXNzJTIwcmV0cmVhdHxlbnwwfHwwfHx8MA%3D%3D"
+    },
+    {
+        "id": 9,
+        "name": "Film Festival",
+        "date": "2024-12-10",
+        "location": "Cinema Hall",
+        "description": "Celebrate the art of cinema at the annual Film Festival, featuring screenings of independent films, documentaries, and international cinema. Attend panels with filmmakers, actors, and industry professionals as they discuss their craft and share insights. Enjoy Q&A sessions following select screenings, providing a unique opportunity to engage with creators. Discover new voices and innovative storytelling through diverse film genres. Join fellow film lovers for networking events and special presentations. Whether you're a filmmaker or a passionate viewer, this festival is a celebration of creativity and artistic expression!",
+        "image": "https://plus.unsplash.com/premium_photo-1683140768507-fef7bb775f13?w=800&auto=format&fit=crop&q=60&ixlib=rb-4.0.3&ixid=M3wxMjA3fDB8MHxzZWFyY2h8MXx8UGhvdG9ncmFwaHklMjBFeGhpYml0aW9ufGVufDB8fDB8fHww"
+    },
+    {
+        "id": 10,
+        "name": "Health and Fitness Fair",
+        "date": "2024-12-15",
+        "location": "Community Center",
+        "description": "Get inspired to lead a healthier lifestyle at the Health and Fitness Fair! Explore a variety of wellness booths offering information on nutrition, fitness programs, and health screenings. Attend workshops on topics like mental health, stress management, and healthy cooking. Participate in fitness classes ranging from yoga to high-intensity interval training, suitable for all levels. Connect with health professionals and learn practical tips for incorporating wellness into your daily routine. Bring your friends and family for a fun-filled day of activities, giveaways, and healthy living inspiration!",
+        "image": "https://plus.unsplash.com/premium_photo-1683140768507-fef7bb775f13?w=800&auto=format&fit=crop&q=60&ixlib=rb-4.0.3&ixid=M3wxMjA3fDB8MHxzZWFyY2h8MXx8UGhvdG9ncmFwaHklMjBFeGhpYml0aW9ufGVufDB8fDB8fHww"
+    },
+    {
+        "id": 11,
+        "name": "Photography Exhibition",
+        "date": "2024-12-20",
+        "location": "Art Museum",
+        "description": "Explore the captivating world of photography at our Photography Exhibition, showcasing the works of talented photographers from around the globe. Experience a diverse range of styles and themes that tell stories through visual art. Join guided tours with curators to gain insights into the creative processes behind the photographs. Attend workshops to improve your photography skills, learn about composition, and explore different techniques. This event is a great opportunity for both aspiring photographers and art enthusiasts to connect and appreciate the power of imagery in storytelling.",
+        "image": "https://plus.unsplash.com/premium_photo-1683140768507-fef7bb775f13?w=800&auto=format&fit=crop&q=60&ixlib=rb-4.0.3&ixid=M3wxMjA3fDB8MHxzZWFyY2h8MXx8UGhvdG9ncmFwaHklMjBFeGhpYml0aW9ufGVufDB8fDB8fHww"
+    },
+    {
+        "id": 12,
+        "name": "Sustainability Fair",
+        "date": "2024-12-25",
+        "location": "Eco Park",
+        "description": "Join us for the Sustainability Fair, dedicated to promoting eco-friendly practices and environmental awareness. Discover innovative products and services from sustainable businesses, participate in workshops on composting, recycling, and renewable energy. Engage with experts in environmental conservation and learn how to reduce your carbon footprint. Enjoy activities for all ages, including children's workshops and outdoor demonstrations. Connect with community organizations dedicated to preserving our planet. Together, we can make a positive impact on the environment and foster a sustainable future!",
+        "image": "https://plus.unsplash.com/premium_photo-1683140768507-fef7bb775f13?w=800&auto=format&fit=crop&q=60&ixlib=rb-4.0.3&ixid=M3wxMjA3fDB8MHxzZWFyY2h8MXx8UGhvdG9ncmFwaHklMjBFeGhpYml0aW9ufGVufDB8fDB8fHww"
+    },
+    {
+        "id": 13,
+        "name": "Holiday Craft Bazaar",
+        "date": "2024-12-30",
+        "location": "Civic Center",
+        "description": "Get into the holiday spirit at the Holiday Craft Bazaar, where local artisans and crafters showcase their handmade goods. Explore unique gifts, decorations, and treats that celebrate the season. Enjoy live music, festive activities, and delicious food vendors offering seasonal favorites. Participate in craft workshops for all ages, where you can create your own holiday treasures. This family-friendly event is perfect for shopping, socializing, and supporting local businesses. Come share the joy of the holidays with friends and family while finding special items that can’t be found in stores!",
+        "image": "https://plus.unsplash.com/premium_photo-1683140768507-fef7bb775f13?w=800&auto=format&fit=crop&q=60&ixlib=rb-4.0.3&ixid=M3wxMjA3fDB8MHxzZWFyY2h8MXx8UGhvdG9ncmFwaHklMjBFeGhpYml0aW9ufGVufDB8fDB8fHww"
+    },
+    {
+        "id": 14,
+        "name": "Science Fair",
+        "date": "2025-01-05",
+        "location": "High School Auditorium",
+        "description": "Join us for the annual Science Fair, where students and young scientists present their innovative projects and experiments. Explore a wide range of scientific disciplines, from biology to robotics. Engage with young minds as they showcase their creativity and problem-solving skills. Attend presentations and demonstrations, and participate in interactive activities. This event aims to inspire the next generation of scientists and encourage curiosity about the world. Come support our young innovators and witness the exciting discoveries being made right in your community!",
+        "image": "https://plus.unsplash.com/premium_photo-1682124752476-40db22034a58?q=80&w=3560&auto=format&fit=crop&ixlib=rb-4.0.3&ixid=M3wxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8fA%3D%3D"
+    },
+    {
+        "id": 15,
+        "name": "International Food Festival",
+        "date": "2025-01-10",
+        "location": "City Plaza",
+        "description": "Embark on a culinary journey at the International Food Festival, celebrating global cuisines and cultural diversity. Taste dishes from various countries, participate in cooking demonstrations, and learn about traditional recipes. Enjoy live music and performances that reflect the rich cultures represented at the festival. Meet local chefs and food vendors who bring their authentic flavors to our community. This event is perfect for food lovers, families, and anyone interested in exploring the world through its cuisine. Come hungry and ready to discover new favorites!",
+        "image": "https://plus.unsplash.com/premium_photo-1682124752476-40db22034a58?q=80&w=3560&auto=format&fit=crop&ixlib=rb-4.0.3&ixid=M3wxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8fA%3D%3D"
+    },
+    {
+        "id": 16,
+        "name": "Winter Sports Extravaganza",
+        "date": "2025-01-15",
+        "location": "Winter Sports Complex",
+        "description": "Join us for the Winter Sports Extravaganza, showcasing thrilling winter activities for all ages! Participate in skiing, snowboarding, ice skating, and sledding competitions. Attend workshops to learn new skills or improve your technique with experienced instructors. Enjoy family-friendly games and activities, as well as food vendors serving warm treats. This event promotes an active lifestyle and a love for winter sports. Whether you’re a seasoned athlete or trying something new, come celebrate the joys of winter with us!",
+        "image": "https://plus.unsplash.com/premium_photo-1682124752476-40db22034a58?q=80&w=3560&auto=format&fit=crop&ixlib=rb-4.0.3&ixid=M3wxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8fA%3D%3D"
+    },
+    {
+        "id": 17,
+        "name": "Garden Show",
+        "date": "2025-01-20",
+        "location": "Botanical Gardens",
+        "description": "Immerse yourself in nature at the Garden Show, featuring stunning displays of flowers, plants, and gardening techniques. Attend workshops on sustainable gardening, landscaping, and plant care from local experts. Explore vendor booths offering gardening supplies, seeds, and tools. Enjoy guided tours of the botanical gardens and learn about the diverse flora. This event is perfect for gardening enthusiasts and those looking to beautify their homes. Bring your family and friends for a day of inspiration and education in the great outdoors!",
+        "image": "https://plus.unsplash.com/premium_photo-1682124752476-40db22034a58?q=80&w=3560&auto=format&fit=crop&ixlib=rb-4.0.3&ixid=M3wxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8fA%3D%3D"
+    },
+    {
+        "id": 18,
+        "name": "Youth Sports Championship",
+        "date": "2025-01-25",
+        "location": "Community Sports Center",
+        "description": "Support local youth athletes at the Youth Sports Championship, featuring exciting competitions in various sports. Watch young talent compete in basketball, soccer, and track and field events. Celebrate sportsmanship, teamwork, and dedication as participants showcase their skills and passion. Engage in activities for families, including games and interactive exhibits promoting active living. This event is a fantastic way to encourage our youth and foster a love for sports within the community. Join us for a day of thrilling competition and fun!",
+        "image": "https://plus.unsplash.com/premium_photo-1682124752476-40db22034a58?q=80&w=3560&auto=format&fit=crop&ixlib=rb-4.0.3&ixid=M3wxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8fA%3D%3Dg"
+    },
+    {
+        "id": 19,
+        "name": "Artisan Market",
+        "date": "2025-02-01",
+        "location": "City Park",
+        "description": "Discover unique handmade crafts at the Artisan Market, featuring local artisans and creators. Browse a variety of products including jewelry, pottery, textiles, and more. Enjoy live demonstrations of crafts and engage with the artisans about their creative processes. This market is perfect for finding one-of-a-kind gifts, home décor, and art pieces. Enjoy food trucks offering delicious local cuisine, making it a perfect outing for families and friends. Support local talent while enjoying a vibrant community atmosphere!",
+        "image": "https://plus.unsplash.com/premium_photo-1682124752476-40db22034a58?q=80&w=3560&auto=format&fit=crop&ixlib=rb-4.0.3&ixid=M3wxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8fA%3D%3D"
+    },
+    {
+        "id": 20,
+        "name": "Health Awareness Week",
+        "date": "2025-02-05",
+        "location": "Community Health Center",
+        "description": "Participate in Health Awareness Week, dedicated to promoting health and well-being in our community. Attend informative workshops on various health topics, including nutrition, mental health, and chronic disease prevention. Receive free health screenings and consultations from healthcare professionals. Engage in fitness activities and learn about healthy lifestyle choices. This week-long event aims to empower individuals to take charge of their health. Join us in fostering a healthier community through education and awareness!",
+        "image": "https://example.com/health-awareness-week.jpg"
+    },
+    {
+        "id": 21,
+        "name": "Tech and Gaming Expo",
+        "date": "2025-02-10",
+        "location": "Exhibition Hall",
+        "description": "Experience the latest in technology and gaming at the Tech and Gaming Expo! Explore interactive exhibits showcasing cutting-edge gadgets, virtual reality, and gaming experiences. Attend panels with industry leaders discussing trends and innovations. Participate in gaming tournaments and challenge your skills against fellow gamers. This event is perfect for tech enthusiasts, gamers, and anyone curious about the future of technology. Join us for a day of fun, learning, and excitement in the digital world!",
+        "image": "https://plus.unsplash.com/premium_photo-1682124752476-40db22034a58?q=80&w=3560&auto=format&fit=crop&ixlib=rb-4.0.3&ixid=M3wxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8fA%3D%3D"
+    },
+    {
+        "id": 22,
+        "name": "Charity Run",
+        "date": "2025-02-15",
+        "location": "City Stadium",
+        "description": "Lace up your running shoes for the Charity Run, supporting local charities and community initiatives. Choose from various distances to suit all fitness levels, including a fun run, 5K, and 10K. Enjoy a day of fitness, fun, and camaraderie while making a difference in our community. Participants will receive a t-shirt and medals, and there will be refreshments available for all. Join us in raising funds for important causes while promoting health and wellness. Gather your friends and family for a meaningful day of running and community spirit!",
+        "image": "https://plus.unsplash.com/premium_photo-1682124752476-40db22034a58?q=80&w=3560&auto=format&fit=crop&ixlib=rb-4.0.3&ixid=M3wxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8fA%3D%3D"
+    },
+    {
+        "id": 23,
+        "name": "Dance Festival",
+        "date": "2025-02-20",
+        "location": "Cultural Center",
+        "description": "Celebrate the joy of movement at the Dance Festival, showcasing various dance styles from around the world. Attend performances by local dance troupes, workshops, and masterclasses led by professional dancers. Experience the rhythm and energy of different cultures through dance. Engage with the dance community, learn new skills, and appreciate the artistry of movement. This festival is perfect for dancers of all levels and anyone who loves to watch and learn. Join us for a vibrant celebration of dance and creativity!",
+        "image": "https://plus.unsplash.com/premium_photo-1682124752476-40db22034a58?q=80&w=3560&auto=format&fit=crop&ixlib=rb-4.0.3&ixid=M3wxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8fA%3D%3D"
+    },
+    {
+        "id": 24,
+        "name": "Pet Adoption Day",
+        "date": "2025-02-25",
+        "location": "Animal Shelter",
+        "description": "Find your new furry friend at Pet Adoption Day! Join us at the local animal shelter to meet adoptable pets looking for loving homes. Enjoy a fun day filled with activities, including pet care workshops, games for kids, and chances to win pet-related prizes. Speak with shelter staff about responsible pet ownership and how to provide a nurturing environment for your new companion. Whether you're looking to adopt or just want to support the cause, come out for a day of love and compassion for animals!",
+        "image": "https://plus.unsplash.com/premium_photo-1682124752476-40db22034a58?q=80&w=3560&auto=format&fit=crop&ixlib=rb-4.0.3&ixid=M3wxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8fA%3D%3D"
+    }
 
-  ]
+]
