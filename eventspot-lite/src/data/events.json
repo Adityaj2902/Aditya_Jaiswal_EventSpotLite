@@ -1,0 +1,59 @@
+[
+    {
+      "id": 1,
+      "name": "Music Festival",
+      "date": "2024-10-10",
+      "location": "Central Park",
+      "description": "Join us for a day of music and fun!",
+      "image": "https://example.com/music-festival.jpg"
+    },
+    {
+      "id": 2,
+      "name": "Art Exhibition",
+      "date": "2024-10-15",
+      "location": "Art Gallery",
+      "description": "Explore contemporary art from local artists.",
+      "image": "https://example.com/art-exhibition.jpg"
+    },
+    {
+        "id": 2,
+        "name": "Art Exhibition",
+        "date": "2024-10-15",
+        "location": "Art Gallery",
+        "description": "Explore contemporary art from local artists.",
+        "image": "https://example.com/art-exhibition.jpg"
+      },
+      {
+        "id": 2,
+        "name": "Art Exhibition",
+        "date": "2024-10-15",
+        "location": "Art Gallery",
+        "description": "Explore contemporary art from local artists.",
+        "image": "https://example.com/art-exhibition.jpg"
+      },
+      {
+        "id": 2,
+        "name": "Art Exhibition",
+        "date": "2024-10-15",
+        "location": "Art Gallery",
+        "description": "Explore contemporary art from local artists.",
+        "image": "https://example.com/art-exhibition.jpg"
+      },
+      {
+        "id": 2,
+        "name": "Art Exhibition",
+        "date": "2024-10-15",
+        "location": "Art Gallery",
+        "description": "Explore contemporary art from local artists.",
+        "image": "https://example.com/art-exhibition.jpg"
+      },
+      {
+        "id": 2,
+        "name": "Art Exhibition",
+        "date": "2024-10-15",
+        "location": "Art Gallery",
+        "description": "Explore contemporary art from local artists.",
+        "image": "https://example.com/art-exhibition.jpg"
+      }
+
+  ]
