@@ -22,8 +22,10 @@ EventSpot Lite is a responsive single-page web application that allows users to 
 1. Clone the repository:
    ```bash
    git clone https://https://github.com/Adityaj2902/Aditya_Jaiswal_EventSpotLite
+   <br>
 2.Navigate to the project directory:
    cd Aditya_Jaiswal_EventSpotLite
+   <br>
 3.Install dependencies:
    npm install
 4.Start the development server
