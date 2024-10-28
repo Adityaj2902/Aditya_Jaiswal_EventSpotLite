@@ -34,7 +34,7 @@ const App = () => {
 
   const closeModal = () => {
     setIsModalOpen(false);
-    setSelectedEvent(null); // Clear the selected event
+    setSelectedEvent(null); 
   };
 
   return (

@@ -2,7 +2,6 @@ import React from 'react';
 import styled from 'styled-components';
 import { CSSTransition } from 'react-transition-group';
 
-// Styled components for the modal background and content
 const ModalBackground = styled.div`
   position: fixed;
   top: 0;
@@ -22,7 +21,7 @@ const ModalContent = styled.div`
   border-radius: 8px;
   width: 80%;
   max-width: 500px;
-  position: relative; // For positioning the close button
+  position: relative; 
   box-shadow: 0 4px 8px rgba(0, 0, 0, 0.2);
 `;
 
@@ -36,14 +35,14 @@ const CloseButton = styled.button`
   cursor: pointer;
 
   &:hover {
-    color: red; // Change color on hover
+    color: red; 
   }
 `;
 
 const EventImage = styled.img`
   width: 100%;
   border-radius: 8px;
-  margin-bottom: 1rem; // Space between image and text
+  margin-bottom: 1rem;
 `;
 
 const EventDetailsModal = ({ event, isOpen, onClose }) => {
